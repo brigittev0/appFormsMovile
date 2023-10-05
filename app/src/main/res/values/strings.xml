@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppForms</string>
+    <string name="titulo">CALCULADORA</string>
+    <string name="numeros">Ingrese el primer número</string>
+    <string name="numero2">Ingrese el segundo número</string>
+    <string name="boton">CALCULAR</string>
+    <string name="result">RESULTADO</string>
+    <string name="talla">Ingrese su talla (cm)</string>
+    <string name="peso">Ingrese su peso (kg)</string>
+    <string name="button">CALCULAR</string>
+    <string name="resultImc">RESULTADO</string>
+    <string name="tituloImc">CALCULADORA IMC</string>
+</resources>
